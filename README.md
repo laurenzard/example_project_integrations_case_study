@@ -6,10 +6,16 @@ Over the past few years, we’ve launched a number of products designed to help 
 HubSpot aims to become the #1 CRM platform for companies to effectively run and grow their businesses. Integrations are a core component to help HubSpot become a remarkable platform that customers love. 
 Objective 
 The VP of Customer Success and the Product Manager of the Integration Marketplace want your initial, brief perspective on: 
+
 ● What do we know about recent integration usage trends? 
+
 ● Do integrations matter for our customers? 
+
 ● What are your initial recommendations based on the data? 
+
 ● What’s your proposal for what to investigate next? 
+
+
 They expect a presentation roughly ~15 minutes in duration (~25-30 minutes with discussion). For this analysis, we’ve provided you with three datasets. Attached below is a brief overview / dictionary of the data provided. 
 Although we want a clear example of thoughtful and detailed analysis, we do not expect you to cover all the insights the data offers. 
 Please conduct an analysis that helps us see… 

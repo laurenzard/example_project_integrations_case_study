@@ -1,3 +1,5 @@
+Please be advised: All data presented herein is illustrative and does not correspond to actual events or entities
+
 Example Project: Integrations Case Study 
 
 The VP of Customer Success and the Product Manager of the Integration Marketplace want your initial, brief perspective on: 
@@ -13,7 +15,7 @@ The VP of Customer Success and the Product Manager of the Integration Marketplac
 Data Dictionary
 
 **account_segments.csv**
-contains information about each of HS’s customers.
+contains information about each customer.
 CUSTOMER_ID 	The unique ID of the customer account.
 EMPLOYEE_SIZE 	The approximate number of employees working at our customer’s business.
 CUSTOMER_SEGMENT The name of the sales/support contact team for each customer. How we sell to and support our customers depends on their segment. 
